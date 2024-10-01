@@ -1,0 +1,70 @@
+body {
+    background-color: #fff2b4;
+    color: #4b2410;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Playfair Display", serif;
+}
+em {
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 120%;
+    letter-spacing: -2px;
+    margin-bottom: 60px;
+    font-family: "Urbanist", system-ui;
+    border-bottom: 1px solid #4b2410
+}
+
+h2 {
+    font-weight: 800;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: "Urbanist", system-ui;
+    margin-bottom: 40px;
+    
+}
+
+h3 {
+    font-family: "Urbanist", system-ui;
+    border-bottom: 1px solid #4b2410
+}
+
+h4 {
+    font-family: "Urbanist", system-ui;
+    font-size: small;
+    text-align: center;
+    padding: 16px 24px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+p {
+    text-align: justify;
+    margin: 0;
+    margin-bottom: 32px;
+}
+
+a {
+color: inherit;
+transition: all 0.5s;
+}
+
+a:hover {
+    font-style: bold;
+    background-color: #4b2410;
+    color: #fff2b4;
+}
+
+.indent {
+    text-indent: 32px;
+}
+
+ul {
+    font-style: italic;
+}
+
